@@ -1,0 +1,8 @@
+The program will continuously prints out the analog value of PC3 in continuously running mode (Auto-Trigger)
+
+Auto Trigger Mode
+
+-Auto-triggered enabled (ADATE = 1)
+-Trigger source can be selected
+-Trigger source(ADTS) == 000 (default) (the most common trigger source_
+-When ADTS == 000, As soon as one conversion completed, another conversion automatically gets carried out.
